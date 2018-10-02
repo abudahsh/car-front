@@ -1,0 +1,99 @@
+.navbar-brand2 {
+    top: 3px;
+    position: relative;
+    display: inline-block;
+    padding-top: 0rem;
+    padding-bottom: 0rem;
+    margin-left: 1rem;
+    margin-right: 0;
+    font-size: 0rem;
+    line-height: inherit;
+    white-space: nowrap;
+}
+
+
+header.header2 {
+    background-color: #f4f4f4;
+    background-image: none;
+    height: 72px;
+    background-repeat: repeat-x;
+    line-height: 14px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 200;
+    text-align: left;
+}
+section.mainimg2 {
+	background-image: url(../img/inner/portal/main-header-top-bg2.png);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	height: auto;
+	margin-top: 72px;padding-bottom:0px;
+}
+
+h1.title {
+    color: #ed1c24;
+    font-size: 3.6rem;
+    text-align: left;
+    margin-top: 55px;
+}
+.dealersections{padding:25px 0;}
+.underheader{margin-top:72px;}
+.textaligncenter{text-align:center;}
+.imgfloat{float:left;padding:0 15px 5px 0;}
+section.mainimg3 {
+	background-image: url(../img/inner/about/header.png);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	height: auto;
+	margin-top: 72px;
+	padding-bottom: 0px;
+}
+
+.photos {
+ display:block;
+        position: relative;
+        width:100px;
+        height: 100px;
+        overflow: hidden;
+        border-radius: 50%;
+      margin:0 auto;margin-bottom:5px;
+}
+div.team{margin-bottom:25px;}
+
+.marginbottom25{margin-bottom:25px;}
+.black{color:#000 !important;}
+@media screen and (max-width: 992px) {h1.title {
+    color: #ed1c24;
+    font-size: 3.8rem;
+    text-align: left;
+    margin-top: 55px;
+    margin: 0 auto;
+    text-align: center;
+}
+	
+	div#title-big{margin:0 auto;text-align:center;}
+	
+	
+	
+	section.mainimg2 {
+	background-image: url(../img/inner/portal/main-header-top-bg2.png);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	height: auto;
+	margin-top: 72px;padding-bottom:50px;
+}
+}
